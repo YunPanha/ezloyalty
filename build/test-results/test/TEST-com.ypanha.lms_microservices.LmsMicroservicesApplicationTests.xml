@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ypanha.lms_microservices.LmsMicroservicesApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-10T15:32:40" hostname="PANHA" time="1.259">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.ypanha.lms_microservices.LmsMicroservicesApplicationTests" time="1.259"/>
+  <system-out><![CDATA[22:32:37.028 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.ypanha.lms_microservices.LmsMicroservicesApplicationTests]: LmsMicroservicesApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:32:37.317 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.ypanha.lms_microservices.LmsMicroservicesApplication for test class com.ypanha.lms_microservices.LmsMicroservicesApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.0)
+
+2024-12-10T22:32:38.143+07:00  INFO 2324 --- [lms-microservices] [    Test worker] c.y.l.LmsMicroservicesApplicationTests   : Starting LmsMicroservicesApplicationTests using Java 17.0.7 with PID 2324 (started by ypanh in D:\eclipse-workspace\lms-microservices)
+2024-12-10T22:32:38.146+07:00  INFO 2324 --- [lms-microservices] [    Test worker] c.y.l.LmsMicroservicesApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-12-10T22:32:40.336+07:00  INFO 2324 --- [lms-microservices] [    Test worker] c.y.l.LmsMicroservicesApplicationTests   : Started LmsMicroservicesApplicationTests in 2.693 seconds (process running for 4.84)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
